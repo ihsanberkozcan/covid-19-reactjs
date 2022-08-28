@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Covid-19-reactjs/static/css/main.8327bc88.css",
-    "main.js": "/Covid-19-reactjs/static/js/main.d5394d92.js",
-    "index.html": "/Covid-19-reactjs/index.html",
-    "main.8327bc88.css.map": "/Covid-19-reactjs/static/css/main.8327bc88.css.map",
-    "main.d5394d92.js.map": "/Covid-19-reactjs/static/js/main.d5394d92.js.map"
+    "main.css": "/covid-19-reactjs/static/css/main.8327bc88.css",
+    "main.js": "/covid-19-reactjs/static/js/main.d5394d92.js",
+    "index.html": "/covid-19-reactjs/index.html",
+    "main.8327bc88.css.map": "/covid-19-reactjs/static/css/main.8327bc88.css.map",
+    "main.d5394d92.js.map": "/covid-19-reactjs/static/js/main.d5394d92.js.map"
   },
   "entrypoints": [
     "static/css/main.8327bc88.css",
