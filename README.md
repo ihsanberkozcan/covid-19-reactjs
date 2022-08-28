@@ -1,7 +1,7 @@
 
 # Covid-19 
 
-[Website](https://ihsanberkozcan.github.io/Covid-19-reactjs)
+[Website](https://ihsanberkozcan.github.io/covid-19-reactjs)
 
 
 ## Tech Stack
