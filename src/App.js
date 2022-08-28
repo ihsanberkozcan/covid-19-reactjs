@@ -98,7 +98,7 @@ function App() {
         <Header className="header">
           <Logo />
         </Header>
-        <Content style={{ padding: "0 50px" }}>
+        <Content>
           <Search update={update} />
           <CountryName country={country} />
           <InfoBox countryInfo={countryInfo} vaccine={vaccine} />

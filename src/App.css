@@ -2,6 +2,12 @@
 html {
   scroll-behavior: smooth;
 }
+
+.ant-layout-content {
+  padding: 0 50px;
+}
+
+
 .logo {
   float: left;
   width: 120px;
@@ -23,3 +29,15 @@ html {
 .site-layout-background {
   background: #fff;
 }
+
+
+
+@media screen and (max-width: 768px) {
+  .ant-layout-content {
+    padding: 0 10px;
+  }
+  .ant-statistic-content-value-int {
+    font-size: 18px;
+  }
+}
+  
