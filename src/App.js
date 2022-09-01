@@ -11,7 +11,7 @@ import { CountryName } from "./components/CountryName";
 
 import "antd/dist/antd.css";
 import "leaflet/dist/leaflet.css";
-import "./App.css";
+import "./styles/App.css";
 
 const { Header, Content, Footer } = Layout;
 
